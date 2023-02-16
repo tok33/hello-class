@@ -10,4 +10,5 @@ GitHub is all about collaboration!
 
 # Contributing
 
-You all are going to contribute to this repository through pull requests!
+You all are going to contribute to this repository through pull requests!<br>
+Please don't ruin any of my important documents...
