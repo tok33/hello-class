@@ -1,0 +1,4 @@
+customers served: 634
+customers satisfied: 12
+
+satisfaction rate: 1.89% :(
